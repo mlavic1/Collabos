@@ -1,0 +1,5 @@
+C:\Users\Lavic\Desktop\FourthVisualStudio\FourthVisualStudio\bin\Debug\FourthVisualStudio.exe.config
+C:\Users\Lavic\Desktop\FourthVisualStudio\FourthVisualStudio\bin\Debug\FourthVisualStudio.exe
+C:\Users\Lavic\Desktop\FourthVisualStudio\FourthVisualStudio\bin\Debug\FourthVisualStudio.pdb
+C:\Users\Lavic\Desktop\FourthVisualStudio\FourthVisualStudio\obj\Debug\FourthVisualStudio.exe
+C:\Users\Lavic\Desktop\FourthVisualStudio\FourthVisualStudio\obj\Debug\FourthVisualStudio.pdb

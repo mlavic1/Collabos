@@ -1,0 +1,6 @@
+C:\Users\Lavic\Desktop\ThirdVisualStudio\ThirdVisualStudio\bin\Debug\ThirdVisualStudio.exe.config
+C:\Users\Lavic\Desktop\ThirdVisualStudio\ThirdVisualStudio\bin\Debug\ThirdVisualStudio.exe
+C:\Users\Lavic\Desktop\ThirdVisualStudio\ThirdVisualStudio\bin\Debug\ThirdVisualStudio.pdb
+C:\Users\Lavic\Desktop\ThirdVisualStudio\ThirdVisualStudio\obj\Debug\ThirdVisualStudio.csprojResolveAssemblyReference.cache
+C:\Users\Lavic\Desktop\ThirdVisualStudio\ThirdVisualStudio\obj\Debug\ThirdVisualStudio.exe
+C:\Users\Lavic\Desktop\ThirdVisualStudio\ThirdVisualStudio\obj\Debug\ThirdVisualStudio.pdb
